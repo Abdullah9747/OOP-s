@@ -24,5 +24,11 @@
     <ClCompile Include="Constructors.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Polymorphism.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DiamondProblem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
